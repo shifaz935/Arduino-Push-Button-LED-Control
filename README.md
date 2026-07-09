@@ -79,13 +79,7 @@ The same concept is used in:
 
 This project was designed and tested using **Tinkercad Circuits**.
 
-## 📁 Project Structure
 
-```
-Arduino-Push-Button-LED-Control/
-│── Push_Button_LED.ino
-└── README.md
-```
 
 ## 📁 Project Structure
 
