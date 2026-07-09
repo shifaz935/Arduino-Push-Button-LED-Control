@@ -34,7 +34,58 @@ This demonstrates the **Input → Process → Output** cycle used in almost ever
 - Demonstrates conditional programming using decision-making logic
 - Beginner-friendly Arduino project
 
+## 🛠 Components Used
 
+- Arduino Uno R3
+- Breadboard
+- Push Button
+- Red LED
+- 220Ω Resistor
+- Jumper Wires
+
+## 🔌 Circuit Connections
+
+| Component | Arduino Pin |
+|----------|-------------|
+| Push Button | Digital Pin 2 |
+| LED | Digital Pin 13 |
+| LED Cathode | GND (through 220Ω resistor) |
+
+## 💡 Learning Outcomes
+
+Through this project, I learned:
+
+- Difference between digital input and digital output
+- Reading button input using Arduino
+- Controlling an LED based on user input
+- Understanding interactive embedded systems
+- Using conditional logic in Arduino programs
+- Building simple user-controlled electronic circuits
+
+## 🌍 Real-World Applications
+
+The same concept is used in:
+
+- Smart Doorbells
+- Home Automation Systems
+- Elevator Buttons
+- Security Systems
+- Industrial Control Panels
+- IoT Devices
+- Smart Switches
+- Access Control Systems
+
+## ▶️ Simulation
+
+This project was designed and tested using **Tinkercad Circuits**.
+
+
+
+
+
+## 👨‍💻 Author
+
+**Shifas P S**
 
 
 - GitHub: https://github.com/shifaz935
