@@ -87,6 +87,22 @@ Arduino-Push-Button-LED-Control/
 └── README.md
 ```
 
+## 📁 Project Structure
+
+```
+Arduino-Push-Button-LED-Control/
+│── Push_Button_LED.ino
+└── README.md
+```
+
+## 🚀 Future Improvements
+
+- Toggle LED state with a single button press
+- Control multiple LEDs using one button
+- Add a buzzer for audio feedback
+- Integrate an LCD to display button status
+- Connect to ESP32/ESP8266 for IoT-based remote monitoring
+- Implement software debouncing for reliable button detection
 
 
 
